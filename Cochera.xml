@@ -1,0 +1,42 @@
+ <?xml version="1.0"?>
+<cochera>
+ 	<coche0>
+		<marca>Volkswagen</marca>
+		<modelo>Golf R32 MK5</modelo>
+		<color>Azul</color>
+		<cilindrada>250 Cv</cilindrada>
+		<plazas>5 Plazas</plazas>
+		<puertas>3 Puertas</puertas>
+	</coche0>
+
+
+
+	<coche1>
+		<marca>Volkswagen</marca>
+		<modelo>Golf R32 MK5</modelo>
+		<color>Azul</color>
+		<cilindrada>250 Cv</cilindrada>
+		<plazas>5 Plazas</plazas>
+		<puertas>3 Puertas</puertas>
+	
+	</coche1>
+
+	<coche2>
+		<marca>Audi</marca>
+		<modelo>RS5</modelo>
+		<color>Negro</color>
+		<cilindrada>150 Cv</cilindrada>
+		<plazas>5 Plazas</plazas>
+		<puertas>5 Puertas</puertas>
+	
+	</coche2>
+	<coche3>
+		<marca>BMW</marca>
+		<modelo>X6</modelo>
+		<color>Azul</color>
+		<cilindrada>180 Cv</cilindrada>
+		<plazas>5 Plazas</plazas>
+		<puertas>5 Puertas</puertas>
+	
+	</coche3>
+</cochera>

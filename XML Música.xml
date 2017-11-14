@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE musica [
+<!ELEMENT grupo1 (#PCDATA)*>
+<!ELEMENT genero (#PCDATA)*>
+<!ELEMENT nombre (#PCDATA)*>
+<!ELEMENT integrantes (#PCDATA)*>
+<!ELEMENT discografia (#PCDATA)*>
+]>
+<musica>
+	<grupo1>
+		<genero>Rock</genero>
+		<nombre>Linkin Park</nombre>
+		<integrantes>Mike Shinoda, Brad Delson, Dave Farrell, Joe Hahn, Rob Bourbon.</integrantes>
+		<discografia>Hybrid Theory, Meteora, Minutes to Midnight, A Thousand Suns, Living Things, The Hunting Party, One More Light, Frat Party at the Pankake Festival</discografia>
+	</grupo1>
+<musica>

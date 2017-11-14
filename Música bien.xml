@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE musica [
+<!ELEMENT grupos (grupo*)>
+<!ELEMENT grupo (nombre, discografia)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT integrantes (#PCDATA)>
+<!ELEMENT discografia (disco)>
+<!ELEMENT disco (nombre_disco, anio)>
+<!ELEMENT nombre_disco (#PCDATA)>
+<!ELEMENT grupos (#PCDATA)>
+]>
+
